@@ -1,0 +1,12 @@
+Clase khipu
+htop: datos de uso servidor
+clave: javita123
+
+screen -S name
+screen -r name
+salir: ctrl a ctrl d
+
+salir de khipu: exit
+
+entrar en khipu: ssh ima539_231_23@200.13.6.14 -p 10022
+		     module load conda/3-py39_4.12.0
